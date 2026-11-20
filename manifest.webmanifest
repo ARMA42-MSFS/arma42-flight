@@ -1,8 +1,7 @@
 {
   "id": "./",
-  "name": "ArMa42 Flight V2.12.5 Mobile",
+  "name": "ArMa42 Flight V2.13 Mobile",
   "short_name": "ArMa42",
-  "description": "Visual-polished mobile MSFS24 Pilot Career Companion",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -14,25 +13,14 @@
       "src": "./icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
       "src": "./icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "./icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "./icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "maskable"
+      "purpose": "any maskable"
     }
-  ]
+  ],
+  "description": "Mobile MSFS24 Pilot Career mit neu gestalteter SimBrief OFP- und Flugplanseite"
 }
