@@ -1,7 +1,8 @@
 {
+  "id": "./",
   "name": "ArMa42 Flight V2.8.3 Mobile",
   "short_name": "ArMa42",
-  "description": "PS5-taugliche MSFS24 Pilotenkarriere mit SimBrief OFP Import",
+  "description": "PS5-taugliche MSFS24 Pilotenkarriere mit SimBrief OFP-Import",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -33,6 +34,5 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ],
-  "id": "./"
+  ]
 }
