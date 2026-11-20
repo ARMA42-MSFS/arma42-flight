@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "ArMa42 Flight V2.8.4 Mobile",
+  "name": "ArMa42 Flight V2.8.7 Mobile",
   "short_name": "ArMa42",
-  "description": "Kostenlose PS5-taugliche MSFS24 Pilotenkarriere mit SimBrief JSON Fallback",
+  "description": "Mobile-first MSFS24 Pilotenkarriere mit kompaktem OFP Import",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
