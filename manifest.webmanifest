@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "ArMa42 Flight V2.8.8 Mobile",
+  "name": "ArMa42 Flight V2.8.9 Mobile",
   "short_name": "ArMa42",
-  "description": "Mobile MSFS24 Pilotenkarriere mit einfachem OFP Import",
+  "description": "Mobile MSFS24 Pilotenkarriere mit robustem SimBrief OFP Import",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
