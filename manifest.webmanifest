@@ -1,7 +1,7 @@
 {
   "name": "ArMa42 Flight",
   "short_name": "ArMa42",
-  "description": "Mobile Flugplanung, Logbuch, Karriere und Statistik für ArMa42 Flight.",
+  "description": "ArMa42 Flight V2.21 UX Final – Flugplanung, Logbuch, Karriere, Kalender und Statistik.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",

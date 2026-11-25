@@ -1,4 +1,4 @@
-const CACHE_NAME='arma42-v2.20.2-liquid-glass';
+const CACHE_NAME='arma42-v2.21-ux-final';
 const APP_ASSETS=['./','./index.html','./manifest.webmanifest','./icon-192.png','./icon-512.png','./arma42_hero.png','./bg_plan.jpg','./bg_active.jpg','./bg_career.jpg','./bg_log.jpg','./bg_stats.jpg','./bg_settings.jpg'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE_NAME).then(async cache=>{for(const asset of APP_ASSETS){try{await cache.add(asset)}catch(error){console.warn('Asset konnte nicht gecacht werden:',asset,error)}}}).then(()=>self.skipWaiting())));
 self.addEventListener('activate',event=>event.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(key=>key!==CACHE_NAME).map(key=>caches.delete(key)))).then(()=>self.clients.claim())));

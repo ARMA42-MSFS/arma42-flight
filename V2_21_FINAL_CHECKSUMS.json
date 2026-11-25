@@ -1,0 +1,54 @@
+{
+  "index.html": {
+    "sha256": "c1c55cfad7801307c6753cf77df67e3bed20906d032cb15a54fb77266761cb6b",
+    "bytes": 85130
+  },
+  "sw.js": {
+    "sha256": "5ce1fcc13a9e3c9adb2b0afd3e2dfdb502d9933b34199ff51981b93dcf4e8907",
+    "bytes": 1085
+  },
+  "manifest.webmanifest": {
+    "sha256": "575520b180ff96621c2ac31375f343a55fa70b2c6eaa5064ed72f1dfff4e80fd",
+    "bytes": 612
+  },
+  "arma42_hero.png": {
+    "sha256": "3fb5e812cdd6f1cf9726c922800a25b65928e38029a7b5f19e40579c63971c21",
+    "bytes": 2688641
+  },
+  "bg_active.jpg": {
+    "sha256": "86e86c2df81ef3b2482619bb632242d435a362f3bd71d7c63bac0322cbd7806d",
+    "bytes": 76639
+  },
+  "bg_career.jpg": {
+    "sha256": "6454081e91fa07f75e2beb7b8089829491f9190bc321e85df5c6663d36905628",
+    "bytes": 74672
+  },
+  "bg_log.jpg": {
+    "sha256": "0caa082b8014a9cb3fa88fd20a6b270548e5ba50e7b4b93e018451c60c655d7a",
+    "bytes": 82260
+  },
+  "bg_plan.jpg": {
+    "sha256": "d88c52f84888ea39cb60d7b4363e1edd1e18bf42df2c9233ae03446356a4bef1",
+    "bytes": 89077
+  },
+  "bg_settings.jpg": {
+    "sha256": "1f1f54e213b6b60acd480f379c7c7f8e5db966778562a26fe8cf0aee4b84fae2",
+    "bytes": 67973
+  },
+  "bg_stats.jpg": {
+    "sha256": "b04e54d3798b0a05ac1125437fea25bb16564643d825831cff4979e4e7133652",
+    "bytes": 84567
+  },
+  "icon-192.png": {
+    "sha256": "3190c78800ef64cbf9c5373fe8317b5bd653886850c34d9099cb2314ab07b7ed",
+    "bytes": 76750
+  },
+  "icon-512.png": {
+    "sha256": "76e4cc4b4fb831e854ac668e687ba494bf058751df6fa510e98fce304b036d40",
+    "bytes": 436809
+  },
+  "README_V2_21_FINAL.md": {
+    "sha256": "8755a09f7e2c10237bf6e35e9e728d373878ef4f588eb7732c002827f4f237e7",
+    "bytes": 186
+  }
+}
