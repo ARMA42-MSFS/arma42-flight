@@ -1,15 +1,7 @@
 {
-  "index.html": {
-    "sha256": "c1c55cfad7801307c6753cf77df67e3bed20906d032cb15a54fb77266761cb6b",
-    "bytes": 85130
-  },
-  "sw.js": {
-    "sha256": "5ce1fcc13a9e3c9adb2b0afd3e2dfdb502d9933b34199ff51981b93dcf4e8907",
-    "bytes": 1085
-  },
-  "manifest.webmanifest": {
-    "sha256": "575520b180ff96621c2ac31375f343a55fa70b2c6eaa5064ed72f1dfff4e80fd",
-    "bytes": 612
+  "README_V2_21_FINAL.md": {
+    "sha256": "8755a09f7e2c10237bf6e35e9e728d373878ef4f588eb7732c002827f4f237e7",
+    "bytes": 186
   },
   "arma42_hero.png": {
     "sha256": "3fb5e812cdd6f1cf9726c922800a25b65928e38029a7b5f19e40579c63971c21",
@@ -47,8 +39,16 @@
     "sha256": "76e4cc4b4fb831e854ac668e687ba494bf058751df6fa510e98fce304b036d40",
     "bytes": 436809
   },
-  "README_V2_21_FINAL.md": {
-    "sha256": "8755a09f7e2c10237bf6e35e9e728d373878ef4f588eb7732c002827f4f237e7",
-    "bytes": 186
+  "index.html": {
+    "sha256": "49524259ad5a2b4492a2ee952fff937a2e024659580aa728da916325ee0f2cb0",
+    "bytes": 85406
+  },
+  "manifest.webmanifest": {
+    "sha256": "575520b180ff96621c2ac31375f343a55fa70b2c6eaa5064ed72f1dfff4e80fd",
+    "bytes": 612
+  },
+  "sw.js": {
+    "sha256": "5ce1fcc13a9e3c9adb2b0afd3e2dfdb502d9933b34199ff51981b93dcf4e8907",
+    "bytes": 1085
   }
 }
